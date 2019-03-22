@@ -15,7 +15,7 @@ def hopper
         }
      }
 
-programmer_hash
+programmer_hash[:grace_hopper;o ]
 end
 
 def alan_kay_is_known_for
